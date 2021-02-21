@@ -1,0 +1,42 @@
+.home__header{
+    height: 1px;
+    width: 2500px;
+   
+   
+    
+   
+    align-items: center;
+    margin-left: 259px;
+    margin-top: 300px;
+}
+.home{
+   
+    align-items: center;
+    display: flex;
+    background-image:  linear-gradient(black, #000);
+    
+    
+    
+}
+.l{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+    color: white;
+}
+.k{
+    display: flex;
+    margin-left: 200px;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+.hii{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+
+}
